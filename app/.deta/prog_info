@@ -1,0 +1,1 @@
+{"id":"9ea5929f-78a2-4199-9514-680093559dae","space":48654,"runtime":"python3.9","name":"app","path":"i2sdty","project":"e0qnqce9","account":"144798365827","region":"sa-east-1","deps":["pip==22.3.1","fastapi==0.89.1","numpy==1.24.1","pandas==1.5.2","uvicorn==0.20.0"],"envs":null,"public":true,"log_level":"off","cron":""}

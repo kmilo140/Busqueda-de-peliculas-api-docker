@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 
 
+
 app = FastAPI()
 
 @app.get("/")
@@ -13,7 +14,7 @@ def helloworld():
 We load the csv with all the API data.
 '''
 
-data = pd.read_csv('Datasets/data_string.csv')
+data = pd.read_csv('https://raw.githubusercontent.com/kmilo140/PI06/master/Datasets/data_string.csv')
 
 '''
 Number of times a keyword appears in the title of movies/series, by platform.
