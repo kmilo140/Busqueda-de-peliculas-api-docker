@@ -63,15 +63,15 @@ que tienen valores faltantes, ya que alguna de sus diversas filas pueden llegar 
 
 Luego de sobrellevar los problemas y una vez realizado el ETL, se comenzó a trabajar en las funciones requeridas para la API. Estas funciones son:
 
-+ <img width="605" alt="image" src="https://user-images.githubusercontent.com/69985158/213351347-1b8a3fec-db95-402a-a735-fc76185440a9.png">
+<img width="605" alt="image" src="https://user-images.githubusercontent.com/69985158/213351347-1b8a3fec-db95-402a-a735-fc76185440a9.png">
 
-+ <img width="431" alt="image" src="https://user-images.githubusercontent.com/69985158/213351296-a88faaa5-d48f-45ec-be9c-b1e31c8c5ef9.png">
+ <img width="431" alt="image" src="https://user-images.githubusercontent.com/69985158/213351296-a88faaa5-d48f-45ec-be9c-b1e31c8c5ef9.png">
 
-+ <img width="585" alt="image" src="https://user-images.githubusercontent.com/69985158/213351401-14438e86-f491-40d4-a481-89f1291ceb3b.png">
+<img width="585" alt="image" src="https://user-images.githubusercontent.com/69985158/213351401-14438e86-f491-40d4-a481-89f1291ceb3b.png">
 
-+ <img width="543" alt="image" src="https://user-images.githubusercontent.com/69985158/213351448-c3623d95-4f1c-435d-9fe7-d1db611fc621.png">
+<img width="543" alt="image" src="https://user-images.githubusercontent.com/69985158/213351448-c3623d95-4f1c-435d-9fe7-d1db611fc621.png">
 
-+ <img width="406" alt="image" src="https://user-images.githubusercontent.com/69985158/213351489-14be0687-3c5d-4666-b22a-b41e30dffa6b.png">
+<img width="406" alt="image" src="https://user-images.githubusercontent.com/69985158/213351489-14be0687-3c5d-4666-b22a-b41e30dffa6b.png">
 
 
 Luego de completar el ETL y las funciones que se van a utilizar posteriormente en la API, debemos elaborar un archivo Dockerfile y requirements.txt, para la implementacion en la herramienta render.
