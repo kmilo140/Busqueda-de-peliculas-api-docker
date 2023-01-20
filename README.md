@@ -1,5 +1,5 @@
 # Extracción, Transformación y compilación de una base de datos, implementando esto en una API para consultas.
-![Alt Text](https://user-images.githubusercontent.com/69985158/213608475-b1e661f1-1823-465d-bb90-c4fcbf842465.gif)
+![Alt Text](https://labibliotecadealexandria.com/wp-content/uploads/2022/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)
 
 <p align="center"> ![](https://user-images.githubusercontent.com/69985158/213608475-b1e661f1-1823-465d-bb90-c4fcbf842465.gif)</p>
 
