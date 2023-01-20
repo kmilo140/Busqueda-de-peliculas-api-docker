@@ -1,6 +1,6 @@
 # Extracción, Transformación y compilación de una base de datos, implementando esto en una API para consultas.
 
-<p align="center"> ![datlas_data_flow](https://user-images.githubusercontent.com/69985158/213608475-b1e661f1-1823-465d-bb90-c4fcbf842465.gif)</p>
+<p align="center"> ![](https://user-images.githubusercontent.com/69985158/213608475-b1e661f1-1823-465d-bb90-c4fcbf842465.gif)</p>
 
 En el siguiente proyecto, inicia con 4 diferentes archivos. A los cuales se le realizo primero un EDA, esto para explorar los datos recibidos. 
 
