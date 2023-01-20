@@ -122,5 +122,11 @@ Para hacer el deploy de nuestra app en Render, es necesario elaborar un archivo 
 
 y listo ya se tendrá disponible la app en Render. el link de la app es https://fastapi-b1fr.onrender.com.
 
+## Video explicativo 📺
+
+[![Alt text](https://img.youtube.com/vi/jtLWpcPDXrg/0.jpg)](https://www.youtube.com/watch?v=jtLWpcPDXrg)
+
+
+
 
 🦾 con ❤️ por [Camilo Ardila🤖](https://github.com/kmilo140) 😊  
