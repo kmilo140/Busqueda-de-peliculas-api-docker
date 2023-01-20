@@ -1,6 +1,6 @@
 # Extracción, Transformación y compilación de una base de datos, implementando esto en una API para consultas.
 
-[https://blogdatlas.files.wordpress.com/2021/02/datlas_data_flow.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogdatlas.wordpress.com%2F2021%2F02%2F08%2Farquitectura-de-proyectos-de-datos-data-warehouses-vs-data-lake-vs-data-mart-datlas-manuales%2F&psig=AOvVaw3vRwVfzOTzsL0t2uyHpfRp&ust=1674269335365000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOC0xrqR1fwCFQAAAAAdAAAAABAE)
+<p align="center"> ![datlas_data_flow](https://user-images.githubusercontent.com/69985158/213608475-b1e661f1-1823-465d-bb90-c4fcbf842465.gif)</p>
 
 En el siguiente proyecto, inicia con 4 diferentes archivos. A los cuales se le realizo primero un EDA, esto para explorar los datos recibidos. 
 
