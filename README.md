@@ -63,26 +63,26 @@ que tienen valores faltantes, ya que alguna de sus diversas filas pueden llegar 
 
 Luego de sobrellevar los problemas y una vez realizado el ETL, se comenzó a trabajar en las funciones requeridas para la API. Estas funciones son:
 
-<img width="605" alt="image" src="https://user-images.githubusercontent.com/69985158/213351347-1b8a3fec-db95-402a-a735-fc76185440a9.png">
+<p align="center"> <img width="605" alt="image" src="https://user-images.githubusercontent.com/69985158/213351347-1b8a3fec-db95-402a-a735-fc76185440a9.png"></p> 
 
- <img width="431" alt="image" src="https://user-images.githubusercontent.com/69985158/213351296-a88faaa5-d48f-45ec-be9c-b1e31c8c5ef9.png">
+ <p align="center"> <img width="431" alt="image" src="https://user-images.githubusercontent.com/69985158/213351296-a88faaa5-d48f-45ec-be9c-b1e31c8c5ef9.png"></p> 
 
-<img width="585" alt="image" src="https://user-images.githubusercontent.com/69985158/213351401-14438e86-f491-40d4-a481-89f1291ceb3b.png">
+<p align="center"> <img width="585" alt="image" src="https://user-images.githubusercontent.com/69985158/213351401-14438e86-f491-40d4-a481-89f1291ceb3b.png"></p> 
 
-<img width="543" alt="image" src="https://user-images.githubusercontent.com/69985158/213351448-c3623d95-4f1c-435d-9fe7-d1db611fc621.png">
+<p align="center"> <img width="543" alt="image" src="https://user-images.githubusercontent.com/69985158/213351448-c3623d95-4f1c-435d-9fe7-d1db611fc621.png"></p> 
 
-<img width="406" alt="image" src="https://user-images.githubusercontent.com/69985158/213351489-14be0687-3c5d-4666-b22a-b41e30dffa6b.png">
+<p align="center"> <img width="406" alt="image" src="https://user-images.githubusercontent.com/69985158/213351489-14be0687-3c5d-4666-b22a-b41e30dffa6b.png"></p> 
 
 
 Luego de completar el ETL y las funciones que se van a utilizar posteriormente en la API, debemos elaborar un archivo Dockerfile y requirements.txt, para la implementacion en la herramienta render.
 
-<img width="418" alt="image" src="https://user-images.githubusercontent.com/69985158/213348911-cc1ccd3a-c162-42ec-b617-3c6304daddfc.png">
+<p align="center"> <img width="418" alt="image" src="https://user-images.githubusercontent.com/69985158/213348911-cc1ccd3a-c162-42ec-b617-3c6304daddfc.png"></p> 
 
 En este punto ya se ha creado todos los archivos necesarios para nuestra app, a continuación subiremos este repositorio local en GitHub. 
 
-<img width="211" alt="image" src="https://user-images.githubusercontent.com/69985158/213349282-a2a17db3-fe5c-4d27-a7a6-460c8d016334.png">
+<p align="center"> <img width="211" alt="image" src="https://user-images.githubusercontent.com/69985158/213349282-a2a17db3-fe5c-4d27-a7a6-460c8d016334.png"></p> 
 
-<img width="530" alt="image" src="https://user-images.githubusercontent.com/69985158/213349350-af14065a-d5f2-4ff1-8c4c-70c2428647c6.png">
+<p align="center"> <img width="530" alt="image" src="https://user-images.githubusercontent.com/69985158/213349350-af14065a-d5f2-4ff1-8c4c-70c2428647c6.png"></p> 
 
 +  **Deta**
  
@@ -92,7 +92,8 @@ Nuestra misión es reducir drásticamente la brecha entre las ideas y las aplica
 Deta Micros es un tiempo de ejecución en la nube ligero pero escalable vinculado a un punto final HTTP. Están destinados a poner sus aplicaciones en funcionamiento increíblemente rápido. Concéntrese en escribir su código y Deta se encargará de todo lo demás.
 
 Para crear un proyecto, vamos a nuestra página de inicio y seleccionamos “Nuevo proyecto”.
-<img width="343" alt="image" src="https://user-images.githubusercontent.com/69985158/213577352-4ecabc7d-a971-4006-8c74-65b7f05ffc61.png">
+ 
+<p align="center"> <img width="343" alt="image" src="https://user-images.githubusercontent.com/69985158/213577352-4ecabc7d-a971-4006-8c74-65b7f05ffc61.png"></p> 
 
 Luego, en nuestra máquina, abrimos una terminal y, dentro de la carpeta donde queremos colocar nuestro proyecto, creamos un nuevo micro.
 
@@ -100,9 +101,9 @@ deta new --python image_converter --project image_converter
 
 Si todo está bien, veremos en nuestro terminal el mensaje “Creado con éxito un nuevo micro”, con la información de nuestro micro.
 
-<img width="224" alt="image" src="https://user-images.githubusercontent.com/69985158/213577631-fcbb7ccf-671f-437b-9305-5921be1f8d2a.png">
+<p align="center"> <img width="224" alt="image" src="https://user-images.githubusercontent.com/69985158/213577631-fcbb7ccf-671f-437b-9305-5921be1f8d2a.png"></p> 
 
-<img width="718" alt="image" src="https://user-images.githubusercontent.com/69985158/213577789-45427365-85bb-4d62-8c0a-81c3972f2e12.png">
+<p align="center"> <img width="718" alt="image" src="https://user-images.githubusercontent.com/69985158/213577789-45427365-85bb-4d62-8c0a-81c3972f2e12.png"></p> 
 
 El deploy FastAPI en DETA esta realizado el link para entrar a nuestra API seria este https://i2sdty.deta.dev/docs.
 
@@ -110,9 +111,9 @@ El deploy FastAPI en DETA esta realizado el link para entrar a nuestra API seria
 
 Para hacer el deploy de nuestra app en Render, es necesario elaborar un archivo Dockerfile. para que esta herramienta web puede levantar nuestra aplicación. es muy simple la realizar el deploy, una vez se tenga el repositorio en un GitHub, con los archivos necesarios. lo conectamos. y listo. la web levantara nuestra aplicación. 
 
-<img width="919" alt="image" src="https://user-images.githubusercontent.com/69985158/213584009-7ba16824-ae1c-424b-ada4-b971bc467498.png">
+<p align="center"> <img width="919" alt="image" src="https://user-images.githubusercontent.com/69985158/213584009-7ba16824-ae1c-424b-ada4-b971bc467498.png"></p> 
 
-<img width="932" alt="image" src="https://user-images.githubusercontent.com/69985158/213584158-3ea2881f-57d2-4e3d-9daf-9a3971cfadd5.png">
+<p align="center"> <img width="932" alt="image" src="https://user-images.githubusercontent.com/69985158/213584158-3ea2881f-57d2-4e3d-9daf-9a3971cfadd5.png"></p> 
 
 y listo ya se tendrá disponible la app en Render. el link de la app es https://fastapi-b1fr.onrender.com.
 
