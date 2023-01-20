@@ -1,6 +1,6 @@
 # Extracción, Transformación y compilación de una base de datos, implementando esto en una API para consultas.
 
-<p align="center">![Alt Text](https://labibliotecadealexandria.com/wp-content/uploads/2022/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)</p>
+![Alt Text](https://labibliotecadealexandria.com/wp-content/uploads/2022/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)
 
 En el siguiente proyecto, inicia con 4 diferentes archivos. A los cuales se le realizo primero un EDA, esto para explorar los datos recibidos. 
 
