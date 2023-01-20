@@ -84,76 +84,37 @@ En este punto ya se ha creado todos los archivos necesarios para nuestra app, a 
 
 <img width="530" alt="image" src="https://user-images.githubusercontent.com/69985158/213349350-af14065a-d5f2-4ff1-8c4c-70c2428647c6.png">
 
-Link del repositorio https://github.com/kmilo140/PI06
++  **Deta**
+ 
+Deta es una nube gratuita diseñada pensando en la experiencia del desarrollador y del usuario.
+Nuestra misión es reducir drásticamente la brecha entre las ideas y las aplicaciones en la nube que funcionan.
+
+Deta Micros es un tiempo de ejecución en la nube ligero pero escalable vinculado a un punto final HTTP. Están destinados a poner sus aplicaciones en funcionamiento increíblemente rápido. Concéntrese en escribir su código y Deta se encargará de todo lo demás.
+
+Para crear un proyecto, vamos a nuestra página de inicio y seleccionamos “Nuevo proyecto”.
+<img width="343" alt="image" src="https://user-images.githubusercontent.com/69985158/213577352-4ecabc7d-a971-4006-8c74-65b7f05ffc61.png">
+
+Luego, en nuestra máquina, abrimos una terminal y, dentro de la carpeta donde queremos colocar nuestro proyecto, creamos un nuevo micro.
+
+deta new --python image_converter --project image_converter
+
+Si todo está bien, veremos en nuestro terminal el mensaje “Creado con éxito un nuevo micro”, con la información de nuestro micro.
+
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/69985158/213577631-fcbb7ccf-671f-437b-9305-5921be1f8d2a.png">
+
+<img width="718" alt="image" src="https://user-images.githubusercontent.com/69985158/213577789-45427365-85bb-4d62-8c0a-81c3972f2e12.png">
+
+El deploy FastAPI en DETA esta realizado el link para entrar a nuestra API seria este https://i2sdty.deta.dev/docs.
+
++  **Render**
+
+Para hacer el deploy de nuestra app en Render, es necesario elaborar un archivo Dockerfile. para que esta herramienta web puede levantar nuestra aplicación. es muy simple la realizar el deploy, una vez se tenga el repositorio en un GitHub, con los archivos necesarios. lo conectamos. y listo. la web levantara nuestra aplicación. 
+
+<img width="919" alt="image" src="https://user-images.githubusercontent.com/69985158/213584009-7ba16824-ae1c-424b-ada4-b971bc467498.png">
+
+<img width="932" alt="image" src="https://user-images.githubusercontent.com/69985158/213584158-3ea2881f-57d2-4e3d-9daf-9a3971cfadd5.png">
+
+y listo ya se tendrá disponible la app en Render. el link de la app es https://fastapi-b1fr.onrender.com.
 
 
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
-
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+🦾 con ❤️ por [Camilo Ardila🤖](https://github.com/kmilo140) 😊  
