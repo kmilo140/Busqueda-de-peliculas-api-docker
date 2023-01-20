@@ -1,5 +1,7 @@
 # Extracción, Transformación y compilación de una base de datos, implementando esto en una API para consultas.
 
+https://blogdatlas.files.wordpress.com/2021/02/datlas_data_flow.gif
+
 En el siguiente proyecto, inicia con 4 diferentes archivos. A los cuales se le realizo primero un EDA, esto para explorar los datos recibidos. 
 
 Posteriormente se realiza un proceso de ETL, donde se efectúa los cambios y normalizados necesario para la base de datos. 
