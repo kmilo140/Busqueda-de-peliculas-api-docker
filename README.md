@@ -34,7 +34,6 @@ Las consultas a realizar son:
    - Pandas  
    - Numpy  
    - seaborn  
-   - Chardet
    - matplotlib
    
   Python es un lenguaje de programación que te permite trabajar rápidamente e integrar sistemas de manera más efectiva.
