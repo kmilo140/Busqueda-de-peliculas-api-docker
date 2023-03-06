@@ -45,6 +45,7 @@ Las consultas a realizar son:
   https://docs.python.org/3/   
   
   + **Docker**
+  
   nos va a permitir crear aplicaciones que vamos a poder transportar de un entorno a otro fácilmente, que van a ejecutarse en un contenedores aislados dentro de       nuestro sistema operativo y que, además, se van a comportar exactamente igual en cualquier máquina con Docker instalado.
   
   + **FastApi**  
