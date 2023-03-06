@@ -44,6 +44,9 @@ Las consultas a realizar son:
   Python es un lenguaje de programación que te permite trabajar rápidamente e integrar sistemas de manera más efectiva.
   https://docs.python.org/3/   
   
+  + **Docker**
+  nos va a permitir crear aplicaciones que vamos a poder transportar de un entorno a otro fácilmente, que van a ejecutarse en un contenedores aislados dentro de       nuestro sistema operativo y que, además, se van a comportar exactamente igual en cualquier máquina con Docker instalado.
+  
   + **FastApi**  
 
  FastAPI es un marco web moderno, rápido (de alto rendimiento) para crear API con Python 3.7+ basado en sugerencias de tipo estándar de Python.  
