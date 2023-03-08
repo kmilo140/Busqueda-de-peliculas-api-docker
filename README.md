@@ -76,16 +76,9 @@ Luego de sobrellevar los problemas y una vez realizado el ETL, se comenzó a tra
 
 Luego de completar el ETL y las funciones que se van a utilizar posteriormente en la API, debemos elaborar un archivo Dockerfile y requirements.txt, para la implementacion en la herramienta render.
 
-<p align="center"> <img width="418" alt="image" src="https://user-images.githubusercontent.com/69985158/213348911-cc1ccd3a-c162-42ec-b617-3c6304daddfc.png"></p> 
-
-<p align="center"> <img width="104" alt="image" src="https://user-images.githubusercontent.com/69985158/213609813-c626168a-0828-422c-b1c5-0015e6f58f94.png"></p> 
-
-
 En este punto ya se ha creado todos los archivos necesarios para nuestra app, a continuación subiremos este repositorio local en GitHub. 
 
-<p align="center"> <img width="211" alt="image" src="https://user-images.githubusercontent.com/69985158/213349282-a2a17db3-fe5c-4d27-a7a6-460c8d016334.png"></p> 
 
-<p align="center"> <img width="530" alt="image" src="https://user-images.githubusercontent.com/69985158/213349350-af14065a-d5f2-4ff1-8c4c-70c2428647c6.png"></p> 
 
 +  **Deta**
  
